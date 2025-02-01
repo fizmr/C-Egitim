@@ -1,0 +1,7 @@
+C:\Users\merve\source\repos\C#Egitim\DOKUZUNCU DERS_database\bin\Debug\DOKUZUNCU DERS_database.exe.config
+C:\Users\merve\source\repos\C#Egitim\DOKUZUNCU DERS_database\bin\Debug\DOKUZUNCU DERS_database.exe
+C:\Users\merve\source\repos\C#Egitim\DOKUZUNCU DERS_database\bin\Debug\DOKUZUNCU DERS_database.pdb
+C:\Users\merve\source\repos\C#Egitim\DOKUZUNCU DERS_database\obj\Debug\DOKUZUNCU DERS_database.csproj.AssemblyReference.cache
+C:\Users\merve\source\repos\C#Egitim\DOKUZUNCU DERS_database\obj\Debug\DOKUZUNCU DERS_database.csproj.CoreCompileInputs.cache
+C:\Users\merve\source\repos\C#Egitim\DOKUZUNCU DERS_database\obj\Debug\DOKUZUNCU DERS_database.exe
+C:\Users\merve\source\repos\C#Egitim\DOKUZUNCU DERS_database\obj\Debug\DOKUZUNCU DERS_database.pdb
