@@ -35,3 +35,7 @@ Geriye değer döndüren ve geriye değer döndürmeyen fonksiyonlar hakkında b
 ✅Proje 9: DATA BASE
 
 SQL kullanarak oluşturduğum veri tabanını ve tabloyu C#'a bağlayıp uygulama tasarladım.
+
+✅Proje 10: DATA BASE CRUD (CREATE-READ-UPDATE-DELETE)
+
+C# üzerinde CRUD işlemlerini kullanarak SQL aracılığıyla oluşturduğum tablo üzerindeki bilgileri değiştirdim
