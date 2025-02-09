@@ -1,0 +1,7 @@
+C:\Users\merve\source\repos\C#Egitim\ONUNCU DERS_dbCrud\bin\Debug\ONUNCU DERS_dbCrud.exe.config
+C:\Users\merve\source\repos\C#Egitim\ONUNCU DERS_dbCrud\bin\Debug\ONUNCU DERS_dbCrud.exe
+C:\Users\merve\source\repos\C#Egitim\ONUNCU DERS_dbCrud\bin\Debug\ONUNCU DERS_dbCrud.pdb
+C:\Users\merve\source\repos\C#Egitim\ONUNCU DERS_dbCrud\obj\Debug\ONUNCU DERS_dbCrud.csproj.AssemblyReference.cache
+C:\Users\merve\source\repos\C#Egitim\ONUNCU DERS_dbCrud\obj\Debug\ONUNCU DERS_dbCrud.csproj.CoreCompileInputs.cache
+C:\Users\merve\source\repos\C#Egitim\ONUNCU DERS_dbCrud\obj\Debug\ONUNCU DERS_dbCrud.exe
+C:\Users\merve\source\repos\C#Egitim\ONUNCU DERS_dbCrud\obj\Debug\ONUNCU DERS_dbCrud.pdb
